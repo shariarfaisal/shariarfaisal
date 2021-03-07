@@ -42,6 +42,17 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
  - Reading 10 books
   
   
+ ### Education
+  - [x] School: Al-Helal Academy
+  - [x] College: Feni Computer Institute
+  - [ ] University: Southeast University 
+
+### Experience 
+  - Lead at **Potato Squad**
+     - **Potato Squad** is our internal team who works for new ideas and inventions.
+  - Software Developer at **Omega Solution**
+  
+  
  ### I would love to meet with you
  - [Facebook](https://www.facebook.com/xfa1sal/)
  - [Linkedin](https://linkedin.com/in/shariarfaisal)
