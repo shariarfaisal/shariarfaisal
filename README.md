@@ -2,16 +2,16 @@
 
 
 ```
-This is Faisal. I am a tech enthasiast who love to, write code, play and explore new things I mean technologies 😉. 
-I have no special talents, I am only passionately curious like Einstein said 😄. I am not genius 
+This is Faisal. I am a tech enthasiast who love to, write code, play and explore new things 😉. 
+I have no special talents, I am only passionately curious like Einstein said 😂. I am not genius 
 but I am a hard worker and confident about myself. 
 Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my own company.
 ```
 
-### My skills && potentials
+### My skills and potentials
 
   ```
-  JavaScript 
+  JavaScript
   Go
   Node JS 
   React 
@@ -19,15 +19,19 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   Express JS 
   NestJS
   GraphQL 
+  SQL
+  MongoDB/ PostgresDB/ MySQL
   TypeORM/ Mongoose/ Prisma
+  Docker
+  Git
   ```
   
-  ### Visual representation
+  ### Visual representation of my skill set
+  - Web Application
   - Management Application 
   - E-commerce 
   - Single page application
   - Real time communication
-  - etc ...
   
   
   
@@ -53,19 +57,10 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   
  ### Feel free to knock me for
  - Any suggestion 😇
+ - Opinion
  - Advise 🥰
  - Any good idea that you want to share with me 😊
  - Any good job opportunity that you know 😌 
- - Any fun fact that you want to share with me
- - Any kind of help
+ - Any fun fact that you want to share with me 😃
+ - Any kind of help 😊
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
