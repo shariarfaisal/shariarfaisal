@@ -12,18 +12,18 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
 ### My skills && potentials
 
   ```
-  **JavaScript**, 
-  **Go**, 
-  **Node JS**, 
-  **React**, 
-  **TypeScript**, 
-  **Express JS**, 
-  **NestJS**, 
-  **GraphQL**, 
-  **TypeORM/ Mongoose/ Prisma**
+  JavaScript 
+  Go
+  Node JS 
+  React 
+  TypeScript 
+  Express JS 
+  NestJS
+  GraphQL 
+  TypeORM/ Mongoose/ Prisma
   ```
   
-  ####Visual representation
+  ###Visual representation
   - Management Application 
   - E-commerce 
   - Single page application
@@ -32,29 +32,29 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   
   
   
- ####Goals in 2021
+ ###Goals in 2021
  - Blockchain
  - IoT
  - Open source contribution minimum in 2 projects
  - Reading 10 books
   
   
- ####I would love to meet with you
+ ###I would love to meet with you
  - [Facebook](https://www.facebook.com/xfa1sal/)
  - [Linkedin](https://linkedin.com/in/shariarfaisal)
  - [Twitter](https://twitter.com/cyberjuncky)
  - [Portfolio](https://shariarfaisal.github.io) 
 
 
-  ####Contact
-   📧 faisaljr623@gmail.com<br />
-   📱 +8801822531439
+  ###Contact <br/>
+   📧 faisaljr623@gmail.com <br />
+   📱 +8801822531439 <br/>
   
   
   
- @@Feel free to knock me for
+ ###Feel free to knock me for
  - Any suggestion 😇
- - Advise 
+ - Advise 🥰
  - Any good idea that you want to share with me 😊
  - Any good job opportunity that you know 😌 
 
