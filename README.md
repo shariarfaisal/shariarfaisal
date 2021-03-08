@@ -32,6 +32,29 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   - E-commerce 
   - Single page application
   - Real time communication
+
+
+### Few Live Works
+  - [x] [Truck Rental App](http://vara.omega.ac/)
+  - [x] [Web App](https://shariarfaisal.github.io/apity/)
+  - [x] [Audio chat app](https://meetfie.herokuapp.com/)
+  - [x] [Cleaning Service](https://hawaalsahel.com/login)
+  - [x] [Website Template](http://solution.omega.ac/) 
+  - [x] [Website Template](https://potatosquad.dev/)
+  - [x] [Portfolio Template](https://shariarfaisal.github.io/)
+  - [x] [EtherPM Template](https://shariarfaisal.github.io/px2)
+  - [x] [Lets check out my github repos to know more](https://github.com/shariarfaisal?tab=repositories)
+
+### Offline projects on github 
+  * GRPC - https://github.com/shariarfaisal/grpc-project
+  * College Management - https://github.com/shariarfaisal/college-management
+  * College Management API - https://github.com/shariarfaisal/collage-management-api
+  * EtherPM - https://github.com/shariarfaisal/etherpm_frontend
+  * E-commerce https://github.com/shariarfaisal/Virtual_shop_fontend
+  * EtherPM Backend API - https://github.com/shariarfaisal/epm-nestjs
+  * E-commerece - https://github.com/shariarfaisal/e-sollution
+  * Chat App - https://github.com/shariarfaisal/real-time-chat-app
+  * GraphQL API - https://github.com/shariarfaisal/virtual-brand-gql-api
   
   
   
