@@ -4,8 +4,7 @@
 ```
 This is Faisal. I am a tech enthasiast who love to, write code, play and explore new things 😉. 
 I have no special talents, I am only passionately curious like Einstein said 😂. I am not genius 
-but I am a hard worker and confident about myself. 
-Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my own company.
+but I am a hard worker and confident about myself.
 ```
 
 ### My skills and potentials
@@ -45,7 +44,7 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   - [x] [EtherPM Template](https://shariarfaisal.github.io/px2)
   - [x] [Lets check out my github repos to know more](https://github.com/shariarfaisal?tab=repositories)
 
-### Offline projects on github 
+### Personal projects on github 
   * GRPC - https://github.com/shariarfaisal/grpc-project
   * College Management - https://github.com/shariarfaisal/college-management
   * College Management API - https://github.com/shariarfaisal/collage-management-api
@@ -66,14 +65,14 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   
   
  ### Education
-  - [x] School: Al-Helal Academy
   - [x] College: Feni Computer Institute
   - [ ] University: Southeast University 
 
 ### Experience 
   - Lead at **Potato Squad**
      - **Potato Squad** is our internal team who works for new ideas and inventions.
-  - Software Developer at **Omega Solution**
+  - Intern Software Developer at **Omega Solution** (6 months)
+  - Software Developer at [**Now**](https://now.com.bd)
   
   
  ### I would love to meet with you
@@ -89,12 +88,5 @@ Personally, I am a happy person "Alhamdulillah", I enjoy my work and I enjoy my 
   
   
   
- ### Feel free to knock me for
- - Any suggestion 😇
- - Opinion
- - Advise 🥰
- - Any good idea that you want to share with me 😊
- - Any good job opportunity that you know 😌 
- - Any fun fact that you want to share with me 😃
- - Any kind of help 😊
+ ### Feel free to reach me anytime😊
 
