@@ -1,7 +1,7 @@
 ```
 This is Faisal. I am a tech enthasiast who love to, write code, play and explore new things 😉. 
 I have no special talents, I am only passionately curious like Einstein said 😂. I am not genius 
-but I am a hard worker and confident about myself.
+but I am a hard worker, confident and optimistic. 
 ```
 
 ### My skills and potentials
