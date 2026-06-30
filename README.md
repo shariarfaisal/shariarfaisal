@@ -1,89 +1,45 @@
-```
-This is Faisal. I am a tech enthasiast who love to, write code, play and explore new things 😉. 
-I have no special talents, I am only passionately curious like Einstein said 😂. I am not genius 
-but I am a hard worker, confident and optimistic. 
-```
+# Hi there, I'm Faisal 👋 
 
-### My skills and potentials
+I am an **AI-Native & Full-Stack Software Engineer** passionate about building robust web applications, optimizing workflows, and integrating cutting-edge AI capabilities into real-world platforms. I focus on bridging the gap between stable backend systems and agentic AI infrastructures.
 
-  ```
-  JavaScript
-  Go
-  Node JS 
-  React 
-  TypeScript 
-  Express JS 
-  NestJS
-  GraphQL 
-  SQL
-  MongoDB/ PostgresDB/ MySQL
-  TypeORM/ Mongoose/ Prisma
-  Docker
-  Git
-  ```
-  
-  ### Visual representation of my skill set
-  - Web Application
-  - Management Application 
-  - E-commerce 
-  - Single page application
-  - Real time communication
+---
 
+### 🚀 What I'm Focused On
+* 🤖 **AI-Native Architecture:** Designing agentic workflows, LangGraph configurations, and tool-integrated systems.
+* ⚡ **Full-Stack Engineering:** Crafting scalable backend microservices and sleek, performance-driven user interfaces.
+* 🛠️ **Developer Experience:** Building specialized CLI agents and extensions to speed up development pipelines.
 
-### Few Live Works
-  - [x] [Truck Rental App](http://vara.omega.ac/)
-  - [x] [Web App](https://shariarfaisal.github.io/apity/)
-  - [x] [Audio chat app](https://meetfie.herokuapp.com/)
-  - [x] [Cleaning Service](https://hawaalsahel.com/login)
-  - [x] [Website Template](http://solution.omega.ac/) 
-  - [x] [Website Template](https://potatosquad.dev/)
-  - [x] [Portfolio Template](https://shariarfaisal.github.io/)
-  - [x] [EtherPM Template](https://shariarfaisal.github.io/px2)
-  - [x] [Lets check out my github repos to know more](https://github.com/shariarfaisal?tab=repositories)
+---
 
-### Personal projects on github 
-  * GRPC - https://github.com/shariarfaisal/grpc-project
-  * College Management - https://github.com/shariarfaisal/college-management
-  * College Management API - https://github.com/shariarfaisal/collage-management-api
-  * EtherPM - https://github.com/shariarfaisal/etherpm_frontend
-  * E-commerce https://github.com/shariarfaisal/Virtual_shop_fontend
-  * EtherPM Backend API - https://github.com/shariarfaisal/epm-nestjs
-  * E-commerece - https://github.com/shariarfaisal/e-sollution
-  * Chat App - https://github.com/shariarfaisal/real-time-chat-app
-  * GraphQL API - https://github.com/shariarfaisal/virtual-brand-gql-api
-  
-  
-  
- ### Goals in 2021
- - Blockchain
- - IoT
- - Open source contribution minimum in 2 projects
- - Reading 10 books
-  
-  
- ### Education
-  - [x] College: Feni Computer Institute
-  - [ ] University: Southeast University 
+### 🛠️ Core Tech Stack
 
-### Experience 
-  - Lead at **Potato Squad**
-     - **Potato Squad** is our internal team who works for new ideas and inventions.
-  - Intern Software Developer at **Omega Solution** (6 months)
-  - Software Developer at [**Now**](https://now.com.bd)
-  
-  
- ### I would love to meet with you
- - [Facebook](https://www.facebook.com/xfa1sal/)
- - [Linkedin](https://linkedin.com/in/shariarfaisal)
- - [Twitter](https://twitter.com/cyberjuncky)
- - [Portfolio](https://shariarfaisal.github.io) 
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Go, HTML/CSS |
+| **Backend & Databases** | Node.js, Prisma, Go REST APIs, SQLite, PostgreSQL |
+| **Frontend & Systems** | React, Next.js, Vite, xterm.js, Chrome Extension API |
+| **AI & Automation** | LangGraph, RAG, Model Context Protocol (MCP), Claude Code, Copilot CLI |
 
+---
 
-  ### Contact
-   📧 faisaljr623@gmail.com <br />
-   📱 +8801822531439 <br/>
-  
-  
-  
- ### Feel free to reach me anytime😊
+### 📦 Highlighted Projects
 
+* 💬 **[chat-app](https://github.com/shariarfaisal/chat-app)** – A modern chat application with native AI integration, built using TypeScript.
+* 💰 **[cashflow](https://github.com/shariarfaisal/cashflow)** – A modern desktop finance management application built with Wails, Go, and React. Features smart payment tracking, auto-calculations, and zero-dependency local analytics.
+* 🔒 **[chatvault](https://github.com/shariarfaisal/chatvault)** – A lightweight conversation persistence layer for AI chat applications. Zero-dependency Go + SQLite backend with user isolation, analytics, and a clean TypeScript SDK.
+* 🎨 **[open-canvas](https://github.com/shariarfaisal/open-canvas)** – A web application designed for collaborating seamlessly with AI agents to write better documents.
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shariarfaisal&show_icons=true&theme=dark&hide_border=true" alt="Sharia's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariarfaisal&theme=dark&hide_border=true" alt="Sharia's Streak Stats" height="180" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/shariarfaisal](https://linkedin.com/in/shariarfaisal)
+* 🌐 **Portfolio / Upwork:** [Sharia Emon F. on Upwork](https://www.upwork.com)
